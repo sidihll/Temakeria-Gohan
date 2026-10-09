@@ -1,0 +1,6 @@
+{
+  "name": "Temakeria Gohan - Totem de Autoatendimento",
+  "description": "Totem de autoatendimento touch-screen da Temakeria Gohan com personalização de temakis, carrinho interativo e confirmação de pedidos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
